@@ -1,0 +1,20 @@
+#p1 {
+    text-align: center;
+    color: green;
+}
+
+#p2 {
+    text-align: left;
+    font-size: 50px;
+    color: white;
+    background-color: crimson;
+}
+#p3 {
+    text-align: right;
+    font-size: 70px;
+    color:blue;
+    background-color: crimson;
+}
+#body {
+    background-color: yellowgreen;
+}
